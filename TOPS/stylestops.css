@@ -1,0 +1,46 @@
+.tops_youtubers {
+            font-size: 20px;
+            font-family: sans-serif;
+            position: relative;
+            top: -300px;
+        }
+        .titulo {
+            font-family: sans-serif;
+            color: #fff;
+            text-align: center;
+            background-color: #6f0897;
+            padding: 10px;
+            width: 600px;
+            margin: auto;
+            border-radius: 10px;
+            margin-top: 0px;
+            position: relative;
+            top: -380px;
+        }
+        
+        .botonenlace {
+                text-decoration: none;
+                padding: 10px;
+                margin: 0;
+                color: #d16eff;
+                font-family: sans-serif;
+                position: relative;
+                left: -50px;
+            }
+        .plantilla {
+            width: 200px;
+            background-color: #6a0074;
+            position: relative;
+            font-family: sans-serif;
+            padding-left: 20px;
+            height: 400px;
+            position: relative;
+            top: 180px;
+            right: -1110px;
+            padding: 10px;
+            color: #fff;
+            text-align: center;
+        }
+        p {
+            color: transparent;
+        }

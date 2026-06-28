@@ -1,0 +1,81 @@
+        body {
+        background: linear-gradient(#dd53ff, #6a0074);
+        }
+        .titulo {
+                font-family: sans-serif;
+                text-align: center;
+                background: #64008b;
+                padding: 10px;
+                margin: auto;
+                width: 300px;
+                border-radius: 8px;
+                color: #fff;
+            }
+            .estossonmisenlaces {
+                font-family: sans-serif;
+                background-color: #64008b;
+                width: 370px;
+                padding: 10px;
+                border-radius: 5px;
+                font-size: 20px;
+                position: relative;
+                right: -914px;
+                color: #fff;
+            }
+            .enlace2 {
+                text-decoration: none;
+                position: relative;
+                right: -1230px;
+                margin: 0;
+                color: #0603bde0;
+            }
+            .enlace3 {
+                text-decoration: none;
+                position: relative;
+                right: -1230px;
+                top: 35px;
+                color: #0603bde0;
+            }
+            .esteenlaceeselunico {
+                font-family: sans-serif;
+                background-color: #64008b;
+                width: 405px;
+                padding: 10px;
+                border-radius: 5px;
+                font-size: 20px;
+                position: relative;
+                right: -901px;
+                top: 47px;
+                color: #fff;
+            }
+            .enlacemodificado {
+                text-decoration: none;
+                position: relative;
+                right: -1077px;
+                top: 70px;
+                color: #0603bde0;
+            }
+            .plantilla {
+                width: 220px;
+                background-color: #64008b;
+                position: relative;
+                font-family: Chelsea Market;
+                padding-left: 20px;
+                height: 400px;
+                position: relative;
+                top: -280px;
+            }
+            .botonenlace {
+                text-decoration: none;
+                padding: 10px;
+                margin: 0;
+                color: #d16eff;
+            }
+            .principal1 {
+                font-family: sans-serif;
+                padding-top: 10px;
+                text-align: center;
+                position: relative;
+                left: -10px;
+                color: #fff;
+            }

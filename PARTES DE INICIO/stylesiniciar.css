@@ -1,0 +1,67 @@
+div {
+            background-color: #6f0897;
+            margin-top: 500px;
+            padding-top: 400px;
+            position: absolute;
+            margin: auto;
+            font-family: sans-serif;
+            color: #fff;
+            font-size: 18px;
+            width: 560px;
+            position: absolute;
+            right: 100px;
+            left: 100px;
+            top: 40px;
+            top: 25px;
+            text-align: center;
+            border-radius: 20px;
+            padding: -290px;
+            height: 200px;
+            border-style: solid;
+            border-color: black;
+        }
+        body {
+            background: linear-gradient(#8d00b8, #ffffff);
+            padding: 350px;
+        }
+        .p {
+            position: relative;
+            top: -380px;
+        }
+        input {
+            position: relative;
+            top: -360px;
+            left: -110px;
+            width: 290px;
+            background-color: #ffffff;
+            padding: 13px;
+            border-radius: 2px;
+            margin: 5px;
+        }
+        .enviar {
+            padding: 13px;
+            width: 80px;
+            margin: auto;
+            font-size: 14px;
+            position: relative;
+            top: -310px;
+            left: -355px;
+            border: none;
+        }
+        .contraceña {
+            position: relative;
+            left: -29px;
+            border: none;
+        }
+        .email {
+            position: relative;
+            top: -364px;
+            border: none;
+        }
+        .volver {
+            text-decoration: none;
+            font-size: 18px;
+            position: relative;
+            top: -70px;
+            color: #fff;
+        }

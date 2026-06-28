@@ -1,0 +1,49 @@
+body {
+        background: linear-gradient(#dd53ff, #6a0074);
+        padding: 200px;
+}
+
+.titulo {
+    background-color: #64008b;
+    width: 210px;
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+    font-family: sans-serif;
+    color: #fff;
+    border-radius: 6px;
+    position: relative;
+    top: -200px;
+}
+
+.enlacesprincipales {
+    background-color: #64008b;
+    width: 300px;
+    padding: 20px;
+    border-radius: 6px;
+    font-family: sans-serif;
+    color: #fff;
+    position: relative;
+    left: -180px;
+    top: -180px;
+}
+
+.Enlace1 {
+    text-decoration: none;
+    color: #0603bde0;
+    position: relative;
+    top: -160px;
+    left: -180px;
+}
+
+.Enlace2 {
+    text-decoration: none;
+    color: #0603bde0;
+    position: relative; 
+    top: -150px;
+    left: -180px;
+}
+
+p {
+    color: transparent;
+}
