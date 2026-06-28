@@ -1,0 +1,113 @@
+body {
+    background: linear-gradient(#c228ff, #fff);
+}
+
+.Tituloprincipal {
+    color: #d16eff;
+    text-align: center;
+    position: relative;
+    top: 27px;
+    left: -20px;
+    font-family: sans-serif;
+    background-color: #64008b;
+    width: 600px;
+    margin: auto;
+    padding: 26px;
+    border-radius: 7px;
+}
+
+.descripcionprincipal {
+    font-family: sans-serif;
+    position: relative;
+    top: 30px;
+    background-color: #aa10e7;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.Apartados {
+    background-color: #6f0897;
+    width: 250px;
+    height: 400px;
+    padding: 20px;
+    margin-bottom: 110px;
+    position: relative;
+    top: 25px;
+    border-radius: 10px;
+}
+
+.h2apartados {
+    text-align: center;
+    font-family: sans-serif;
+    color: #fff;
+}
+
+.apartadoh2 {
+    position: relative;
+    left: -27px;
+}
+
+span {
+    font-size: 18px;
+    color: #834fa1;
+}
+
+.apartadoop {
+    position: relative;
+    left: -15px;
+}
+
+.imgenlace {
+    text-decoration: none;
+    position: relative;
+    left: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #d16eff;
+}
+
+.EnlaceEnlace {
+    text-decoration: none;
+    color: #d16eff;
+    position: relative;
+    left: 10px;
+}
+
+.formsenlace {
+    text-decoration: none;
+    color: #d16eff;
+    position: relative;
+    left: 10px;
+}
+
+.Topsenlace {
+    text-decoration: none;
+    color: #d16eff;
+    position: relative;
+    left: 10px;
+}
+
+.TOXIONEXAR {
+    width: 1000px;
+    position: relative;
+    top: -510px;
+    right: -160px;
+}
+
+.Personas {
+    width: 130px;
+    position: relative;
+    top: -1010px;
+    left: -1070px;
+}
+
+.iniciar {
+    background-color: #6f0897;
+    padding: 15px;
+    position: relative;
+    top: -1080px;
+    right: -1130px;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 6px;
+    font-family: sans-serif;
+}
